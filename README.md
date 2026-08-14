@@ -1,4 +1,5 @@
-🏦 Bank Customer Churn Prediction | Machine Learning
+## 🏦 Bank Customer Churn Prediction | Machine Learning
+
 📌 Project Overview
 
 An end-to-end machine learning project to predict whether a bank customer is likely to churn (exit) based on customer demographics, account information, and banking behavior.
